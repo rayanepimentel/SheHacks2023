@@ -1,10 +1,5 @@
 # <img src="./img/logo.png" alt="Logo"> 2023
 
-<p align="center">
-  <img src="./img/sh.jpeg" alt="logo" width="300" height="200">
-</p>
-
-
 
 ## Sobre 💡
 
